@@ -1,0 +1,24 @@
+.Jumbotroncontainer{
+  background-color: #fafafa;
+  padding-top: 20px;
+  display: flex;
+  
+}
+
+
+
+.Jumbotron {
+  width:100%;
+  height:43vw;
+  opacity: 1;
+  text-align: center;  
+  justify-content: center;
+  align-items: center;
+  background-image: url('../images/jumbotron.png');
+  background-size: 100% 79%;
+  background-repeat: no-repeat;   
+  color: #fafafa;
+  font-size: 5.5vw;
+  font-family: pp-sans-big-light, "Helvetica Neue", Arial, sans-serif;
+}
+
